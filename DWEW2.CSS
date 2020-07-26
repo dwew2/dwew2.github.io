@@ -1,0 +1,71 @@
+
+body { background-color: #ffffff;
+          font-family: Lato, Trebuchet MS, Arial, Helvetica, sans-serif;
+} 
+
+H1, H2, H3 {color: #FF3300;
+}
+
+H1 { font-size: 20px; text-align: center; padding-top: 2px;
+}
+
+H2 { font-size: 16px; font-style: italic; padding-top: 5px;
+}
+
+H3 { font-size: 14px;
+       padding-top: 15px;
+}
+
+H4 {font-size: 12px;
+	padding-top: 10px;
+}
+	
+H5 {font-size: 12px;
+	padding-top: 0px;
+}
+
+H6 {font-size: 12px;
+	line-height: 12px;
+	padding-top: 0;
+}
+
+p, div, ol, ul {   background-color: #ffffff;
+	font-size: 12px;
+	line-height: 18px;	
+	text-align: justify;
+	padding-top: 6px;
+	padding-bottom; 6px;
+}
+
+caption { align="bottom", "left";
+}
+
+table { font-size: 12px; border="0" cellspacing="6" cellpadding="6";
+}
+
+.code { font-family: Monaco, Courier, Courier New;
+}
+
+.comment { font-size: 10px; font-family: Geneva, Arial, sans-serif;
+}
+
+.cited_form { font-style: italic;
+}
+
+.eng { color: #cc9900;
+    font-style: italic;
+}
+
+.ipa { font-family: Arial Unicode MS, DoulosSIL, Lucida Sans Unicode;
+}
+
+.location { font-size: 10px; font-family: Geneva, Arial, sans-serif;
+}
+
+.term { font-weight: bold;
+}
+
+.title { font-style: italic;
+}
+
+
